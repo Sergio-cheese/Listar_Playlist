@@ -1,0 +1,30 @@
+C:\Users\Conta Geral\Documents\Visual Studio 2013\Projects\Baixar_Videos\Baixar_Videos\bin\Debug\Baixar_Videos.exe.config
+C:\Users\Conta Geral\Documents\Visual Studio 2013\Projects\Baixar_Videos\Baixar_Videos\bin\Debug\Baixar_Videos.exe
+C:\Users\Conta Geral\Documents\Visual Studio 2013\Projects\Baixar_Videos\Baixar_Videos\bin\Debug\Baixar_Videos.pdb
+C:\Users\Conta Geral\Documents\Visual Studio 2013\Projects\Baixar_Videos\Baixar_Videos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Conta Geral\Documents\Visual Studio 2013\Projects\Baixar_Videos\Baixar_Videos\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Conta Geral\Documents\Visual Studio 2013\Projects\Baixar_Videos\Baixar_Videos\obj\Debug\Baixar_Videos.csprojResolveAssemblyReference.cache
+C:\Users\Conta Geral\Documents\Visual Studio 2013\Projects\Baixar_Videos\Baixar_Videos\obj\Debug\Baixar_Videos.Form1.resources
+C:\Users\Conta Geral\Documents\Visual Studio 2013\Projects\Baixar_Videos\Baixar_Videos\obj\Debug\Baixar_Videos.Properties.Resources.resources
+C:\Users\Conta Geral\Documents\Visual Studio 2013\Projects\Baixar_Videos\Baixar_Videos\obj\Debug\Baixar_Videos.csproj.GenerateResource.Cache
+C:\Users\Conta Geral\Documents\Visual Studio 2013\Projects\Baixar_Videos\Baixar_Videos\obj\Debug\Baixar_Videos.exe
+C:\Users\Conta Geral\Documents\Visual Studio 2013\Projects\Baixar_Videos\Baixar_Videos\obj\Debug\Baixar_Videos.pdb
+C:\Users\Conta Geral\Documents\Visual Studio 2013\Projects\Baixar_Videos\Baixar_Videos\bin\Debug\libvideo.dll
+C:\Users\Conta Geral\Documents\Visual Studio 2013\Projects\Baixar_Videos\Baixar_Videos\bin\Debug\YoutubeExtractor.dll
+C:\Users\Conta Geral\Documents\Visual Studio 2013\Projects\Baixar_Videos\Baixar_Videos\bin\Debug\YoutubeExtractor.xml
+C:\Users\Conta Geral\Documents\Visual Studio 2013\Projects\Baixar_Videos\Baixar_Videos\bin\Debug\MediaToolkit.dll
+C:\Users\Conta Geral\Pictures\Baixar_Videos\Baixar_Videos\bin\Debug\Baixar_Videos.exe.config
+C:\Users\Conta Geral\Pictures\Baixar_Videos\Baixar_Videos\obj\Debug\Baixar_Videos.exe
+C:\Users\Conta Geral\Pictures\Baixar_Videos\Baixar_Videos\obj\Debug\Baixar_Videos.pdb
+C:\Users\Conta Geral\Pictures\Baixar_Videos\Baixar_Videos\bin\Debug\Baixar_Videos.exe
+C:\Users\Conta Geral\Pictures\Baixar_Videos\Baixar_Videos\bin\Debug\Baixar_Videos.pdb
+C:\Users\Conta Geral\Pictures\Baixar_Videos\Baixar_Videos\bin\Debug\libvideo.dll
+C:\Users\Conta Geral\Pictures\Baixar_Videos\Baixar_Videos\bin\Debug\MediaToolkit.dll
+C:\Users\Conta Geral\Pictures\Baixar_Videos\Baixar_Videos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Conta Geral\Pictures\Baixar_Videos\Baixar_Videos\bin\Debug\YoutubeExtractor.dll
+C:\Users\Conta Geral\Pictures\Baixar_Videos\Baixar_Videos\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Conta Geral\Pictures\Baixar_Videos\Baixar_Videos\bin\Debug\YoutubeExtractor.xml
+C:\Users\Conta Geral\Pictures\Baixar_Videos\Baixar_Videos\obj\Debug\Baixar_Videos.csprojResolveAssemblyReference.cache
+C:\Users\Conta Geral\Pictures\Baixar_Videos\Baixar_Videos\obj\Debug\Baixar_Videos.Form1.resources
+C:\Users\Conta Geral\Pictures\Baixar_Videos\Baixar_Videos\obj\Debug\Baixar_Videos.Properties.Resources.resources
+C:\Users\Conta Geral\Pictures\Baixar_Videos\Baixar_Videos\obj\Debug\Baixar_Videos.csproj.GenerateResource.Cache
